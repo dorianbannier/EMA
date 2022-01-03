@@ -1,4 +1,4 @@
-﻿# Version Tk
+﻿# Version Tk - Pour EMG enregistré dans Synergy
 ############## Chargement des librairies ##########################################
 
 import os
